@@ -1,0 +1,15 @@
+/Users/carlyn/Projects/Week7Functions/Calculator/bin/Debug/net6.0/Calculator
+/Users/carlyn/Projects/Week7Functions/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/Users/carlyn/Projects/Week7Functions/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/Users/carlyn/Projects/Week7Functions/Calculator/bin/Debug/net6.0/Calculator.dll
+/Users/carlyn/Projects/Week7Functions/Calculator/bin/Debug/net6.0/Calculator.pdb
+/Users/carlyn/Projects/Week7Functions/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/Users/carlyn/Projects/Week7Functions/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlyn/Projects/Week7Functions/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/Users/carlyn/Projects/Week7Functions/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/Users/carlyn/Projects/Week7Functions/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/carlyn/Projects/Week7Functions/Calculator/obj/Debug/net6.0/Calculator.dll
+/Users/carlyn/Projects/Week7Functions/Calculator/obj/Debug/net6.0/refint/Calculator.dll
+/Users/carlyn/Projects/Week7Functions/Calculator/obj/Debug/net6.0/Calculator.pdb
+/Users/carlyn/Projects/Week7Functions/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
+/Users/carlyn/Projects/Week7Functions/Calculator/obj/Debug/net6.0/ref/Calculator.dll

@@ -1,0 +1,15 @@
+/Users/carlyn/Projects/Week7Functions/ArgumentAndParameters/bin/Debug/net6.0/ArgumentAndParameters
+/Users/carlyn/Projects/Week7Functions/ArgumentAndParameters/bin/Debug/net6.0/ArgumentAndParameters.deps.json
+/Users/carlyn/Projects/Week7Functions/ArgumentAndParameters/bin/Debug/net6.0/ArgumentAndParameters.runtimeconfig.json
+/Users/carlyn/Projects/Week7Functions/ArgumentAndParameters/bin/Debug/net6.0/ArgumentAndParameters.dll
+/Users/carlyn/Projects/Week7Functions/ArgumentAndParameters/bin/Debug/net6.0/ArgumentAndParameters.pdb
+/Users/carlyn/Projects/Week7Functions/ArgumentAndParameters/obj/Debug/net6.0/ArgumentAndParameters.csproj.AssemblyReference.cache
+/Users/carlyn/Projects/Week7Functions/ArgumentAndParameters/obj/Debug/net6.0/ArgumentAndParameters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlyn/Projects/Week7Functions/ArgumentAndParameters/obj/Debug/net6.0/ArgumentAndParameters.AssemblyInfoInputs.cache
+/Users/carlyn/Projects/Week7Functions/ArgumentAndParameters/obj/Debug/net6.0/ArgumentAndParameters.AssemblyInfo.cs
+/Users/carlyn/Projects/Week7Functions/ArgumentAndParameters/obj/Debug/net6.0/ArgumentAndParameters.csproj.CoreCompileInputs.cache
+/Users/carlyn/Projects/Week7Functions/ArgumentAndParameters/obj/Debug/net6.0/ArgumentAndParameters.dll
+/Users/carlyn/Projects/Week7Functions/ArgumentAndParameters/obj/Debug/net6.0/refint/ArgumentAndParameters.dll
+/Users/carlyn/Projects/Week7Functions/ArgumentAndParameters/obj/Debug/net6.0/ArgumentAndParameters.pdb
+/Users/carlyn/Projects/Week7Functions/ArgumentAndParameters/obj/Debug/net6.0/ArgumentAndParameters.genruntimeconfig.cache
+/Users/carlyn/Projects/Week7Functions/ArgumentAndParameters/obj/Debug/net6.0/ref/ArgumentAndParameters.dll

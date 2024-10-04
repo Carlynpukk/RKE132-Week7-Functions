@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vJR6+6kumXzNxm+u1TTx8LLZgPJP3NKciSJcSt7udqyCo2rq+iovqy8dmw0p/qnfvzg5Nqu6z1s6H6hCZaI5Mw==",
+  "success": true,
+  "projectFilePath": "/Users/carlyn/Projects/Week7Functions/Calculator/Calculator.csproj",
+  "expectedPackageFiles": [
+    "/Users/carlyn/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/carlyn/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/carlyn/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
